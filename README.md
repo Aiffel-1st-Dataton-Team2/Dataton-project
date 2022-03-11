@@ -10,7 +10,7 @@
 
 |참고|링크|
 |:---:|:---:|
-|❣**데이톤 2조 발표 자료**|https://docs.google.com/presentation/d/1u33qz6R2Vw-EmvcRiWmQzmbdDFmZpTaImK63h1sXNxU/edit?usp=sharing|
+|❣**데이톤 2조 발표 자료**|[넷플릭스와 디즈니 플러스의 사업전략 비교](https://docs.google.com/presentation/d/1u33qz6R2Vw-EmvcRiWmQzmbdDFmZpTaImK63h1sXNxU/edit?usp=sharing)|
 |💛**발표용 노션 페이지**|https://www.notion.so/1-Datathon-0a333bc21ea14e93bacf154ed692e3c4|
 |💜**구글 드라이브**|https://colab.research.google.com/drive/1evrrCoh5iSohAGc1UIHEwDF0zYvDgsjp?usp=sharing|
 
